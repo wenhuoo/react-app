@@ -13,6 +13,11 @@ class App extends Component {
         <p className="App-intro">
           To get started, edit <code>src/App.js</code> and save to reload.
         </p>
+        <p>This is my personal online resume.</p>
+        <div>Overview</div>
+        <div>Education</div>
+        <div>Experience</div>
+        <div>Project</div>
       </div>
     );
   }
